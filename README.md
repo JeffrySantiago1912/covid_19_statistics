@@ -5,4 +5,4 @@ You can see the date, confirmed cases and deaths confirmed to date by covid-19.
 
 ![Estadisticas 1](https://user-images.githubusercontent.com/66681577/181350887-b2623db0-7770-420a-a0f0-ed98874053d7.PNG)
 
-![estadisticas 2](https://user-images.githubusercontent.com/66681577/181350539-8f9748ae-a2e0-4dfb-8e2b-a7b6bb1531bb.PNG)
+
